@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+[] ride a motorcycle
+[] read a book
+[] travel around world
